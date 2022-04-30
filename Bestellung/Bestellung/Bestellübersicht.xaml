@@ -1,0 +1,83 @@
+﻿<Window x:Class="Bestellung.Bestellübersicht"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bestellung"
+        mc:Ignorable="d"
+        Title="Bestellübersicht" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Margin="0 0 0 20">
+            <WrapPanel>
+                <TextBlock Text="Name:"/>
+                <TextBlock  Name="Kundenname" Text="{Binding Path=name}" Margin="15 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Adresse:"/>
+                <TextBlock Name="Kundenadresse" Text="{Binding Path=adresse}" Margin="5 0"/>
+            </WrapPanel>
+        </StackPanel>
+
+        <StackPanel Name="PanelMengen" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left">
+            <TextBlock Name="Anzahl1" Text="{Binding Path=AlleMengen}"/>
+            <TextBlock Name="Anzahl2" Text="{Binding Path=AlleMengen}"/>
+            <TextBlock Name="Anzahl3" Text="{Binding Path=AlleMengen}"/>
+            
+
+        </StackPanel>
+
+        <Separator Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right" Margin="0 0 10 0">
+            <Separator.LayoutTransform>
+                <RotateTransform Angle="90" />
+            </Separator.LayoutTransform>
+        </Separator>
+
+        <StackPanel Name="PanelSpeisen"  Grid.Column="2" Grid.Row="2"  >
+            <TextBlock Name="TextSpeisen1"  Text="{Binding Path=name}" />
+            <TextBlock Name="TextSpeisen2"  Text="{Binding Path=name}" />
+            <TextBlock Name="TextSpeisen3"  Text="{Binding Path=name}" />
+            <WrapPanel>
+                <TextBlock  Name="Code"/>
+                <TextBlock  Name="Gutscheincode"/>
+            </WrapPanel>
+        </StackPanel>
+        
+        <Separator Grid.Column="2" Grid.Row="2" HorizontalAlignment="Right" Margin="0 0 10 0">
+            <Separator.LayoutTransform>
+                <RotateTransform Angle="90" />
+            </Separator.LayoutTransform>
+        </Separator>
+
+        <Separator Grid.Column="3" Grid.Row="2" VerticalAlignment="Bottom" />
+        
+        <StackPanel Name="PanelPreiseGesamt" Grid.Column="3" Grid.Row="2"  HorizontalAlignment="Center" >
+            <TextBlock  Name="TextGesamtPreis1" HorizontalAlignment="Right"/>
+            <TextBlock  Name="TextGesamtPreis2" HorizontalAlignment="Right"/>
+            <TextBlock  Name="TextGesamtPreis3" HorizontalAlignment="Right"/>
+            <TextBlock  Name="GutscheinRabatt" HorizontalAlignment="Right" Margin="0 0 0 5"/>
+        </StackPanel>
+
+        <TextBlock Grid.Column="3" Grid.Row="3" Name="TextPreisBestellung" TextAlignment="Center"/>
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,112 @@
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\bin\Debug\Bestellung.exe.config
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\bin\Debug\Bestellung.exe
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\bin\Debug\Bestellung.pdb
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.csprojAssemblyReference.cache
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\MainWindow.g.cs
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\App.g.cs
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\MainWindow.baml
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.g.resources
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.exe
+C:\Users\vitolo.francesco\Desktop\Bestellung\Bestellung\obj\Debug\Bestellung.pdb
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\bin\Debug\Bestellung.exe.config
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\bin\Debug\Bestellung.exe
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\bin\Debug\Bestellung.pdb
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.csprojAssemblyReference.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\MainWindow.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\App.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\MainWindow.baml
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.g.resources
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.exe
+H:\WI20Z1\Programmieren mit C#\Bestellung\Bestellung\obj\Debug\Bestellung.pdb
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe.config
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.pdb
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csprojAssemblyReference.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\App.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.baml
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.g.resources
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.exe
+H:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.pdb
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csprojAssemblyReference.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\App.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.exe
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.pdb
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe.config
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.pdb
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.baml
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.g.resources
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung - Kopie\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.baml
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe.config
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.pdb
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csprojAssemblyReference.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\App.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.baml
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.baml
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.g.resources
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.exe
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.pdb
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe.config
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.pdb
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csprojAssemblyReference.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\App.g.cs
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.baml
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.baml
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.g.resources
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.exe
+H:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.pdb
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe.config
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.exe
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\bin\Debug\Bestellung.pdb
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\App.g.cs
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung_MarkupCompile.lref
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellübersicht.baml
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\MainWindow.baml
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.g.resources
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.Properties.Resources.resources
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.GenerateResource.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.csproj.CoreCompileInputs.cache
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.exe
+A:\WI20Z1\Programmieren mit C#\Bestellung_Neu2\Bestellung - Kopie\Bestellung\obj\Debug\Bestellung.pdb
